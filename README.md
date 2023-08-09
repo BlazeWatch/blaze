@@ -1,5 +1,3 @@
-Certainly! Here's the updated README with the accuracy information included:
-
 # :fire: Blaze: Igniting the Future of Fire Detection :fire:
 
 Blaze is a state-of-the-art fire detection and analysis machine learning model. Using the heat of sentiment analysis, it's more than just a flash in the pan – it's a roaring blaze that revolutionizes the way we understand and respond to fire.
